@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COIL_Progect_Group_25", "COIL_Progect_Group_25.vcxproj", "{2D8FA104-F2A4-42FE-9130-096832121F96}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PktDefTests", "..\PktDefTests\PktDefTests.vcxproj", "{C1BCD27E-199D-414F-8D1D-F71B9BFBD710}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PktDefTests", "PktDefTests\PktDefTests.vcxproj", "{C1BCD27E-199D-414F-8D1D-F71B9BFBD710}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
